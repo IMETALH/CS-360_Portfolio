@@ -10,4 +10,6 @@ Functionality test was performed throughout the entire development process and a
 
 The challenges that I had while developing this app were mainly on the application logic and the process of activating the app's buttons through the controller classes. I had the most success in the UI design process where I had to add buttons and popup windows. 
 
-![image](https://user-images.githubusercontent.com/91644837/208324299-6819fc8a-efdf-47c6-92dc-f66e572e8db3.png)
+![image](https://user-images.githubusercontent.com/91644837/208324299-6819fc8a-efdf-47c6-92dc-f66e572e8db3.png)![image](https://user-images.githubusercontent.com/91644837/208324940-2c7cce95-47cc-4166-988f-562c4f6893b6.png)![image](https://user-images.githubusercontent.com/91644837/208324991-9c536d31-587c-410b-aa76-44c7c1776cdd.png)
+
+
