@@ -9,3 +9,5 @@ I started my development process by identifying application-specific functions t
 Functionality test was performed throughout the entire development process and android studio made this process a little easier by integrating a virtual device (android emulator) where a developing application can get functionality test while in development. 
 
 The challenges that I had while developing this app were mainly on the application logic and the process of activating the app's buttons through the controller classes. I had the most success in the UI design process where I had to add buttons and popup windows. 
+
+![image](https://user-images.githubusercontent.com/91644837/208324299-6819fc8a-efdf-47c6-92dc-f66e572e8db3.png)
