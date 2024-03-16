@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-sdk
+        android:minSdkVersion="27"
+        android:targetSdkVersion="29"
+        android:maxSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WeightTracker">
+        <activity android:name="com.kennedy.CS360_Weight_Tracker.DeleteRecordActivity"></activity>
+        <activity android:name="com.kennedy.CS360_Weight_Tracker.ChangeTargetActivity" />
+        <activity android:name="com.kennedy.CS360_Weight_Tracker.ChangeRecordActivity" />
+        <activity android:name="com.kennedy.CS360_Weight_Tracker.AddRecordActivity" />
+        <activity android:name="com.kennedy.CS360_Weight_Tracker.WeightActivity" />
+        <activity android:name="com.kennedy.CS360_Weight_Tracker.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
