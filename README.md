@@ -1,4 +1,6 @@
-# CS---360-Mobile-Architect-Programming-
+# CS 360 Portfolio 
+## Mobile Architecture Development
+![image](https://user-images.githubusercontent.com/91644837/208324299-6819fc8a-efdf-47c6-92dc-f66e572e8db3.png)![image](https://user-images.githubusercontent.com/91644837/208324940-2c7cce95-47cc-4166-988f-562c4f6893b6.png)![image](https://user-images.githubusercontent.com/91644837/208324991-9c536d31-587c-410b-aa76-44c7c1776cdd.png)
 
 The CS 360 Weight Tracker Application is designed to fulfill school project requirements. I developed this app to help the user track their weight loss progress. User can set goals for weight loss or weight gain within the app. An ideal app icon for representing the Weight Tracker App in the app store would be an image of a human body on a scale. The app functions as a typical event tracking tool, allowing users to record their weight along with the date and weight value in pounds.
 
@@ -9,5 +11,3 @@ I began the development process by identifying application-specific functions th
 Functionality testing was conducted throughout the development process, with Android Studio facilitating this through its integration of a virtual device (Android emulator). This feature allowed for ongoing functionality tests of the application during its development.
 
 The main challenges I encountered while developing this app were related to application logic and the process of activating the app's buttons through the controller classes. However, I found the most success in the UI design process, particularly with adding buttons and implementing popup windows.
-
-![image](https://user-images.githubusercontent.com/91644837/208324299-6819fc8a-efdf-47c6-92dc-f66e572e8db3.png)![image](https://user-images.githubusercontent.com/91644837/208324940-2c7cce95-47cc-4166-988f-562c4f6893b6.png)![image](https://user-images.githubusercontent.com/91644837/208324991-9c536d31-587c-410b-aa76-44c7c1776cdd.png)
